@@ -1,3 +1,3 @@
 # Virtual Atoms Lab
 
-Research lab in computational chemistry led by [@utf](github.com/utf) at Imperial College London
+Research lab in computational chemistry led by [Alex Ganose](github.com/utf) at Imperial College London
