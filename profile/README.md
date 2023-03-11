@@ -1,6 +1,6 @@
 # Virtual Atoms Lab
 
-The virtual atoms lab is led by [Alex Ganose](https://github.com/utf) at Imperial College London.
+The Virtual Atoms Lab is led by [Alex Ganose](https://github.com/utf) at Imperial College London.
 
 We use computational materials chemistry, data-driven approaches, and machine learning to discover new functional materials for photovoltaics, thermoelectrics, and more. We develop a suite of open-source codes to help tackle these challenges.
 
