@@ -2,7 +2,7 @@
 
 The virtual atoms lab is led by [Alex Ganose](https://github.com/utf) at Imperial College London.
 
-We use computational materials chemistry, data-driven approaches, and machine learning to discover new functional materials for photovoltaics, thermoelectrics, and more. We develop a suite of open-source codes to help tackle these challenges. See the codes page for more details.
+We use computational materials chemistry, data-driven approaches, and machine learning to discover new functional materials for photovoltaics, thermoelectrics, and more. We develop a suite of open-source codes to help tackle these challenges.
 
 We are members of the Institute for Digital Molecular Design and Fabrication ([DigiFAB][digifab]), the Thomas Young Centre ([TYC][tyc]) for Materials Modelling, the Centre for Plastic Electronics ([CPE][cpe]), the [Artificial Intelligence Network][ainet], and the [Materials Project](https://materialsproject.org).
 
